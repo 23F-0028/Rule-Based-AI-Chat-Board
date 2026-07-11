@@ -214,6 +214,4 @@ Project 1 – Rule-Based AI Chatbot
 This project was developed for educational purposes as part of the DecodeLabs Industrial Training Program.
 
 ---
-
-## ⭐ If you found this project helpful, consider giving it a Star on GitHub!
 ********
